@@ -1,0 +1,39 @@
+PART I. Overview
+
+Gerneral
+1. net type
+nodes (join, dissociate) frequently
+Therefore,
+Ad-hoc
+ 
+2. topology
+quick & reliable comm
+so, mesh network
+
+UAV:
+A. Type 
+	need hovering & scouting at rapid pace
+	nodes could die out or replace
+	As a result,
+	MANETs - Mobile Ad hoc Networks
+	&
+	VANETs - Vehicular Ad hoc Networks, star (road side infraustructure)
+   
+
+B. Topology
+	control station, star (control center) / adhoc / mesh (UAVs)
+
+C. Energy contraints:
+	Not as easy as vehicular Net and vehicle Net
+
+D. Tolerance
+	Reason: 
+	Deployed in extreme situation, Net may get partitioned frequently. Require MAC & Network layer changes, also has to be self-organizing (IMPORTANT).
+
+	May Cause: 
+	connectivity cannot be guaranteed, 
+
+	Needs: 
+	1. delay & disruption tolerance (incoorperating store-carry-forward capatibilities)
+	2. Robust inter-UAV Networks
+

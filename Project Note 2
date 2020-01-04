@@ -1,0 +1,45 @@
+PART 2. Categorization & Characteristic of UAV Networks
+
+A. Multi-UAV Networks
+Advantages
+
+	1. Allaw Small & less expensive UAVs in a coordinated manner
+	*2. can work co-operatively and extend coverage by acting as relays
+
+	Degree of mobility depends. {
+		providing communication from a disaster (earthquake)
+		&
+		agriculture/forest surveillance
+	}
+
+	3. automatically reconfiguration
+
+	4. Comparasion of energy & bandwidth
+	single UAV system has to maintain links with CS, BA, server & provide function  ->  heavy contraints on battery and bandwidth
+
+	Multi-UAV less connection & feed & comm withm others through mesh network
+
+	5. Less expensive (acquire & maintainance)
+
+	** TABLE II
+
+	* 6. Complete search faster in specific problems, robust to loss. 
+Drawbacks
+	
+	Add complexities to the network
+
+B. Feature of the UAV neetworks
+
+	1. Infrastructure-Based / ad-hoc
+	2. server / client: UAV对比vehicle & mobile
+	3. star / mesh
+	4. Delay and Disruptions Prone Networks
+
+C. Categorization
+
+	** TABLE IV
+
+D. Self-Organization
+	form structure autumatically based on guidance (or not)
+	fault tolerance through reconfigure
+	
